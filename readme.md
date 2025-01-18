@@ -1,4 +1,4 @@
-# Express TypeScript Backend Boilerplate
+# Express Backend Boilerplate
 
 A production-ready Express.js backend boilerplate with comprehensive middleware setup, testing infrastructure, and best practices for security and performance.
 
