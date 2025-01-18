@@ -1,10 +1,10 @@
-# Express TypeScript Backend Boilerplate
+# Express Backend Boilerplate
 
 A production-ready Express.js backend boilerplate with TypeScript support, comprehensive middleware setup, testing infrastructure, and best practices for security and performance.
 
 ## Features
 
-- 🚀 Express.js with TypeScript
+- 🚀 Express.js
 - 🔒 Built-in security middleware (helmet, rate limiting)
 - 📝 Swagger API documentation
 - 🧪 Jest testing setup
@@ -14,7 +14,6 @@ A production-ready Express.js backend boilerplate with TypeScript support, compr
 - 🗄️ Prisma ORM with PostgreSQL
 - ⚡️ Request timing and monitoring
 - 🔍 ESLint + Prettier setup
-- 🏗️ TypeScript type checking
 
 ## Getting Started
 
@@ -61,7 +60,6 @@ A production-ready Express.js backend boilerplate with TypeScript support, compr
 │   ├── security/     # Security middleware
 │   └── validation/   # Request validation
 ├── services/         # Business logic services
-├── types/           # TypeScript type definitions
 ├── util/            # Utility functions
 ├── v1/              # API routes (versioned)
 └── tests/           # Test files
